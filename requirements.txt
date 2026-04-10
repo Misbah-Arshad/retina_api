@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+ultralytics
+onnxruntime
+numpy
+opencv-python-headless
